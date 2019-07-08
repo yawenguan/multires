@@ -9,7 +9,7 @@ the manuscript, which is based on the data for the entire 2011.
 To perform the analysis, source("Master.R") in R. 
 This will perform the following
   1. create spectral covariates
-  2. fit spectral downscaler with cross-species for 9 batches with 3days in a batch
-  3. combind MCMC samples from subposteriors using parallelMCMCcombine
-  4. make spatial prediction, forecast at hold out locations. And make mappredicton for entire    region. 
+  2. fit spectral downscaler with cross-species for 9 batches with 3 days in a batch
+  3. combine MCMC samples from subposteriors using parallelMCMCcombine
+  4. make spatial prediction and forecast at hold out locations. And make map predicton for the contiguous US. 
   5. Make figures 
