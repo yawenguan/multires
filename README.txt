@@ -1,4 +1,7 @@
-Example data and code for spectral downscaler.
+Repository for "Multivariate Spectral Downscaling for PM2.5 Species" contains:
+1. Manuscript (MultiRes.pdf) and supplementary materials (MultiResSupp.pdf),
+2. Example data (Data) and code (R and Rcpp) for spectral downscaler,
+3. Figures and results from analyzing the example data. 
 
 Note that the example data is subset to dates from July 1-July 30, 2011
 and 100 PM stations locations are sampled from the total 840 stations. 
